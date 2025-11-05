@@ -1,0 +1,1 @@
+print("This is Python program in vs code")
